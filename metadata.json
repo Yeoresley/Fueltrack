@@ -1,0 +1,5 @@
+{
+  "name": "FuelTrack Pro - Gestión de Almacén de Combustible",
+  "description": "Sistema integral para la gestión de depósitos de combustible, control de flotas, consumos, ventas y reportes contables con acceso basado en roles.",
+  "requestFramePermissions": []
+}
